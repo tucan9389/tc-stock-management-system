@@ -1,0 +1,1 @@
+# tc-stock-management-system
